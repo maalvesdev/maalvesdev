@@ -2,8 +2,6 @@
 
 Software Engineering student currently focused on Python, SQL and building a strong foundation in programming and database concepts.
 
----
-
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
