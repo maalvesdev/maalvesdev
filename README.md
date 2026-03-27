@@ -1,13 +1,7 @@
 # Hi, i'm Miguel 👋
 
-Analista de Dados com foco em automação e otimização
-de processos hospitalares. Transformo rotinas manuais
-em fluxos automatizados — menos retrabalho,
-mais decisão baseada em dados.
-
-Atualmente no Instituto Maria Schmitt (IMAS),
-desenvolvendo dashboards e automações em Python
-para gestão hospitalar.
+Software Engineering student currently focused on Python, SQL and developing practical skills 
+and building a strong foundation in programming and database concepts.
 
 ---
 
