@@ -4,7 +4,7 @@ Software Engineering student currently focused on Python, SQL and building a str
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
