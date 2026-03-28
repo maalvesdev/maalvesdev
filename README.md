@@ -1,6 +1,6 @@
 # Hi, i'm Miguel 👋
 
-Software Engineering student currently focused on Python, SQL and building a strong foundation in programming and database concepts.
+Software Engineering student currently learning Python and SQL and building a strong foundation in programming and database concepts.
 
 ---
 
