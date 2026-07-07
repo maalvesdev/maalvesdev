@@ -40,4 +40,4 @@ Currently studying at Instituto Infnet (2026-2030). I am building a solid founda
 
 ---
 
-📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/maalvesdev) | m.alvesrj@outlook.com
+**Let's connect:** [LinkedIn](https://linkedin.com/in/maalvesdev) | m.alvesrj@outlook.com
