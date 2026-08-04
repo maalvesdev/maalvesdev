@@ -12,6 +12,8 @@ Currently studying at Instituto Infnet (2026-2030). I am building a solid founda
 
 **Languages & AI Integration:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=flat&logo=awslambda&logoColor=white)
 
 **Back-End & Data:**
@@ -22,14 +24,6 @@ Currently studying at Instituto Infnet (2026-2030). I am building a solid founda
 **Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## Current Interests & Focus
-
-* **AI Integration & Prompt Engineering:** Exploring how to connect applications to Large Language Models (like OpenRouter) to build smart features and optimize AI outputs.
-* **General Back-End Development:** Building the core logic, structuring systems, and writing clean Python code to support robust applications.
-* **Data Structuring:** Learning how to process, validate, and store data (SQL/JSON) effectively to feed intelligent systems.
 
 ---
 
