@@ -1,6 +1,6 @@
 # Hi, I'm Miguel 👋
 
-**Software Engineering Student | Back-End & AI Enthusiast**
+**Software Engineering Student**
 
 Currently studying at Instituto Infnet (2026-2030). I am building a solid foundation in general Back-End development, with a strong passion for Artificial Intelligence and AI integration. My goal is to build intelligent, efficient applications and explore how LLMs and data can solve real-world problems.
 
