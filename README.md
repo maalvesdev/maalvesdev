@@ -22,8 +22,3 @@ Currently studying Software Engineering at **Instituto Infnet** (2026–2030). I
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
-
-## Connect with Me
-
-m.alvesrj@outlook.com
-linkedin.com/maalvesdev
