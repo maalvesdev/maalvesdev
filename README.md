@@ -1,6 +1,7 @@
 # Hi, I'm Miguel 👋
 
-Currently studying Software Engineering at **Instituto Infnet** (2026–2030). I focus on building reliable backend systems and integrating LLMs with relational databases to solve real-world problems.
+Currently studying C# and Java Software Engineering at **Instituto Infnet** (2026–2030).
+
 
 🏆 **1st Place Winner** — Freshmen Python Championship (*Instituto Infnet, 2026*)
 
