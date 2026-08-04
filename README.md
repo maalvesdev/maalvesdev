@@ -6,7 +6,7 @@ Currently studying Software Engineering at **Instituto Infnet** (2026–2030).
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
