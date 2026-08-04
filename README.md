@@ -25,5 +25,5 @@ Currently studying Software Engineering at **Instituto Infnet** (2026–2030). I
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maalvesdev)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:m.alvesrj@outlook.com)
+m.alvesrj@outlook.com
+linkedin.com/maalvesdev
