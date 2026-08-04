@@ -23,7 +23,7 @@ Currently studying Software Engineering at **Instituto Infnet** (2026–2030).
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maalvesdev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.alvesrj@outlook.com)
@@ -34,5 +34,3 @@ Currently studying Software Engineering at **Instituto Infnet** (2026–2030).
 * **Advanced English (C1)** - Fluency Academy
 
 ---
-
-**Let's connect:** [LinkedIn](https://linkedin.com/in/maalvesdev) | m.alvesrj@outlook.com
